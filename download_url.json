@@ -1,0 +1,19 @@
+{
+    "version": "1.0.0",
+    "vol.1.data": {
+        "status": true,
+        "url": "https://disk.ovofish.com/f/vLi9/vol.1.7z"
+    },
+    "vol.2.data": {
+        "status": true,
+        "url": "https://disk.ovofish.com/f/4rCK/vol.2.7z"
+    },
+    "vol.3.data": {
+        "status": true,
+        "url": "https://disk.ovofish.com/f/qBTY/vol.3.7z"
+    },
+    "vol.4.data": {
+        "status": true,
+        "url": "https://disk.ovofish.com/f/d4h4/vol.4.7z"
+    }
+}
